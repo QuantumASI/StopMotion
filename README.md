@@ -1,6 +1,10 @@
 # StopMotion
+
 General Requirements: All applications in this repository are designed to work with a computer able to run Python.
+
 ## Stop Motion Recorder (SMR)
+
+### Requirements
 
 The SMR series is designed to run on a computer directly connected to a webcam.
 
